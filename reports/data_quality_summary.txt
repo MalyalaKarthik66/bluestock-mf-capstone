@@ -1,0 +1,56 @@
+============================================================
+      DATA QUALITY SUMMARY REPORT
+============================================================
+Report generated on: 2026-06-22 18:50:07
+
+------------------------------
+1. File Row & Column Counts
+------------------------------
+- fund_master              : 40 rows, 15 columns
+- nav_history              : 46000 rows, 3 columns
+- aum_by_fund_house        : 90 rows, 5 columns
+- monthly_sip_inflows      : 48 rows, 6 columns
+- category_inflows         : 144 rows, 3 columns
+- industry_folio_count     : 21 rows, 6 columns
+- scheme_performance       : 40 rows, 19 columns
+- investor_transactions    : 32778 rows, 13 columns
+- portfolio_holdings       : 322 rows, 8 columns
+- benchmark_indices        : 8050 rows, 3 columns
+
+------------------------------
+2. Missing Value Counts
+------------------------------
+- fund_master              : 0 total missing values
+- nav_history              : 0 total missing values
+- aum_by_fund_house        : 0 total missing values
+- monthly_sip_inflows      : 12 total missing values
+- category_inflows         : 0 total missing values
+- industry_folio_count     : 0 total missing values
+- scheme_performance       : 0 total missing values
+- investor_transactions    : 0 total missing values
+- portfolio_holdings       : 0 total missing values
+- benchmark_indices        : 0 total missing values
+
+------------------------------
+3. Duplicate Row Counts
+------------------------------
+- fund_master              : 0 duplicate rows
+- nav_history              : 0 duplicate rows
+- aum_by_fund_house        : 0 duplicate rows
+- monthly_sip_inflows      : 0 duplicate rows
+- category_inflows         : 0 duplicate rows
+- industry_folio_count     : 0 duplicate rows
+- scheme_performance       : 0 duplicate rows
+- investor_transactions    : 0 duplicate rows
+- portfolio_holdings       : 0 duplicate rows
+- benchmark_indices        : 0 duplicate rows
+
+------------------------------
+4. AMFI Code Validation
+------------------------------
+PASS: All AMFI codes in fund_master and nav_history match perfectly.
+
+------------------------------
+5. General Anomalies
+------------------------------
+Check console output for details on unexpected negative values per dataset.
