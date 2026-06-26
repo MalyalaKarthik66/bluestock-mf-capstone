@@ -1,0 +1,75 @@
+================================================================================
+DAY 2 CLEANING REPORT
+================================================================================
+Generated at: 2026-06-26 12:05:29
+
+--------------------------------------------------------------------------------
+Dataset: 02_nav_history.csv
+Input rows: 46000
+Output rows: 46000
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 08_investor_transactions.csv
+Input rows: 32778
+Output rows: 32778
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 07_scheme_performance.csv
+Input rows: 40
+Output rows: 40
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 01_fund_master.csv
+Input rows: 40
+Output rows: 40
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 03_aum_by_fund_house.csv
+Input rows: 90
+Output rows: 90
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 04_monthly_sip_inflows.csv
+Input rows: 48
+Output rows: 48
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 05_category_inflows.csv
+Input rows: 144
+Output rows: 144
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 06_industry_folio_count.csv
+Input rows: 21
+Output rows: 21
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 09_portfolio_holdings.csv
+Input rows: 322
+Output rows: 322
+Anomalies:
+  - None
+
+--------------------------------------------------------------------------------
+Dataset: 10_benchmark_indices.csv
+Input rows: 8050
+Output rows: 8050
+Anomalies:
+  - None
+

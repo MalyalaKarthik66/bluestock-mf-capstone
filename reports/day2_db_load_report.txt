@@ -1,0 +1,14 @@
+================================================================================
+DAY 2 SQLITE LOAD REPORT
+================================================================================
+Generated at: 2026-06-26 12:01:06
+Database: C:\Users\karth\bluestock_mf_capstone\data\db\bluestock_mf.db
+
+dim_fund             expected=40       actual=40       status=PASS
+dim_date             expected=1297     actual=1297     status=PASS
+fact_nav             expected=46000    actual=46000    status=PASS
+fact_transactions    expected=32778    actual=32778    status=PASS
+fact_performance     expected=40       actual=40       status=PASS
+fact_aum             expected=90       actual=90       status=PASS
+
+Overall row-count verification: PASS
